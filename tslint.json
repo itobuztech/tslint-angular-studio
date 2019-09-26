@@ -1,0 +1,15 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-airbnb", "tslint-config-prettier"],
+  "rules": {
+    "quotemark": [true, "single"],
+    "max-line-length": [true, 140],
+    "object-literal-key-quotes": [true, "as-needed"],
+    "no-unused-variable": [true],
+    "typedef": [
+      true,
+      "call-signature",
+      "parameter",
+      "member-variable-declaration"
+    ]
+  }
+}

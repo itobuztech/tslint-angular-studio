@@ -1,0 +1,9 @@
+{
+  "name": "tslint-angular-studio",
+  "main": "tslint.json",
+  "version": "1.0.0",
+  "dependencies": {
+    "tslint-config-airbnb": "5.11.2",
+    "tslint-config-prettier": "^1.18.0"
+  }
+}
