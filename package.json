@@ -1,7 +1,7 @@
 {
   "name": "tslint-angular-studio",
   "main": "tslint.json",
-  "version": "8.0.2",
+  "version": "8.0.3",
   "repository": {
     "url": "itobuztech/tslint-angular-studio"
   },
