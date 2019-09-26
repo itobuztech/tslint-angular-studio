@@ -3,6 +3,7 @@
   "main": "tslint.json",
   "version": "1.0.0",
   "dependencies": {
+    "typescript": "~3.6.3",
     "tslint-config-airbnb": "5.11.2",
     "tslint-config-prettier": "^1.18.0"
   }
