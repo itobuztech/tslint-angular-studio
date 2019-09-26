@@ -1,7 +1,10 @@
 {
   "name": "tslint-angular-studio",
   "main": "tslint.json",
-  "version": "8.0.1",
+  "version": "8.0.2",
+  "repository": {
+    "url": "itobuztech/tslint-angular-studio"
+  },
   "dependencies": {
     "typescript": "~3.6.3",
     "tslint-config-airbnb": "5.11.2",
